@@ -9,7 +9,7 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohts&layout=compact&hide_border=true&title_color=28a16c&text_color=28a16c&bg_color=0d1117" />
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block; margin-bottom: 20px;"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Diego-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">  
@@ -26,8 +26,7 @@
 </div>
 
 
-  
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   </a> 
     <a href = "mailto:diegohrp20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/diegohts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
